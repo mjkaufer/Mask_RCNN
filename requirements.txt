@@ -1,4 +1,4 @@
-# relies on python 3.6
+# relies on python 3.8
 numpy
 scipy
 Pillow
